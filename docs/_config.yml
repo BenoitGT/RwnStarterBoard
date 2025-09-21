@@ -1,0 +1,13 @@
+theme: jekyll-theme-tactile
+
+title: RailWay Network Starter Board
+
+description: RwnStarterBoard Firmware 
+
+github:
+  public: true
+  is_project_page: true
+  repository_url: https://github.com/BenoitGT/RwnStarterBoard
+  owner_url: https://github.com/BenoitGT
+
+mermaid: true
