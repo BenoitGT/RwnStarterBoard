@@ -4,7 +4,7 @@
 
 The "RwnStarterBoard" is block module conception board. This repository provide its  firmware 
 
-![[board_starter_3D.png]]
+![board_starter_3D.png](images/board_starter_3D.png)
 ## Blocks Structure
 
 
